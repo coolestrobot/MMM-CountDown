@@ -8,3 +8,10 @@
  * Custom here your css module
  *
  */
+.time {
+    float: left;
+    margin-left: 10px;
+}
+.week {
+    float: left;
+}
